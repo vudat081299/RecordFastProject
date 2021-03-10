@@ -6,8 +6,8 @@
 </h3>
 
 # Feature
-+ Record into .wav extension.
-+ Some specification are set for Audio format in this project **(you can config output type as anything you want - add, remove, fix value of any specification for a Audio format)**:
++ Record into .wav extension by default (custom output extension in source).
++ Some specification are set for Audio format in this project **(you can config output type as anything you want - add, remove, fix value of any specification for a Audio format in source)**:
 > + AVFormatIDKey: Int(kAudioFormatLinearPCM)
 > + AVSampleRateKey: 16000
 > + AVNumberOfChannelsKey: 1
