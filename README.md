@@ -21,6 +21,6 @@
 > + Method 1: Connect to a MacOS PC.
 > + Method 2: Access file manager on iPhone and upload to anywhere you want.
 
-# Note
+# Config output quality
 > + This project record and extract .wav file.
-> + Depend on your required output, config quality or type of output in code. You control your out put, remmember that!
+> + Depend on your required output, config quality or type of output in code. **You control your output**, remmember that!
