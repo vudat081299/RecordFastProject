@@ -1,8 +1,8 @@
 # RecordFastProject iOS
 
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/55421234/110569031-80b6da80-8186-11eb-8a8a-5eef2a5e22a2.gif">
-  <img src="https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png">
+  <img width="200px" src="https://user-images.githubusercontent.com/55421234/110569031-80b6da80-8186-11eb-8a8a-5eef2a5e22a2.gif">
+  <img width="200px" src="https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png">
 </h3>
 
 # When use?
