@@ -1,7 +1,7 @@
 # RecordFastProject iOS
 # When use?
-### + This project help you record superfast by my custom and support text you will record show on screen with .csv file.
-### + Using to making data to train.
++ This project help you record superfast by my custom and support text you will record show on screen with .csv file.
++ Using to making data to train.
 
 # How to build?
 1. Clone project and open.
