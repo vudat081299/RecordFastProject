@@ -5,6 +5,11 @@
   <img width="200px" src="https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png">
 </h3>
 
+# When use?
++ For iOS developer reference only. (learning how to make a recorder app, and config the output)
++ This project help you record superfast by my custom and support text you will record show on screen with .csv file.
++ Using to making data to train model.
+
 # Feature
 + Record into .wav extension by default (custom output extension in source).
 + Some specification are set for Audio format in this project **(you can config output type as anything you want - add, remove, fix value of any specification for a Audio format in source)**:
@@ -18,9 +23,12 @@
 + Auto increment name output file.
 + Just for fast record so cannot play recorded file, access the file manager on iphone to play your record.
 
-# When use?
-+ This project help you record superfast by my custom and support text you will record show on screen with .csv file.
-+ Using to making data to train model.
+# How fast?
+> + Tested **record and save 10 .wav file** with **12-15 word** per file in just **1 minute**.
+> + No crash, low latency.
+
+# Prerequisite
+> + A iOS developer to understand and custom this.
 
 # How to build?
 1. Clone project and open.
