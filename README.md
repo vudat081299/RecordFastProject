@@ -6,7 +6,7 @@
 </h3>
 
 # When use?
-+ For iOS developer reference only. (learning how to make a recorder app, and config the output)
++ **For iOS developer reference purpose only. (learning how to make a recorder app, and config the output)
 + This project help you record superfast by my custom and support text you will record show on screen with .csv file.
 + Using to making data to train model.
 
