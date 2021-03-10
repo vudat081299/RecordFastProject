@@ -9,7 +9,6 @@
 4. Build and run.
 
 # Note
-> Output is saved in document folder of this app in file manager on iPhone.
->  This project record and extract .wav file.
-> Depend on your required output, config quality or type of output in code. You control your out put, remmember that!
-> 
+> + Output is saved in document folder of this app in file manager on iPhone.
+> + This project record and extract .wav file.
+> + Depend on your required output, config quality or type of output in code. You control your out put, remmember that!
