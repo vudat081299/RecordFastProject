@@ -5,9 +5,22 @@
   <img width="200px" src="https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png">
 </h3>
 
+# Feature
++ Record into .wav extension.
++ Some specification are set for Audio format in this project **(you can config output type as anything you want - add, remove, fix value of any specification for a Audio format)**:
+> + AVFormatIDKey: Int(kAudioFormatLinearPCM)
+> + AVSampleRateKey: 16000
+> + AVNumberOfChannelsKey: 1
+> + AVEncoderAudioQualityKey: AVAudioQuality.max.rawValue
+> + AVLinearPCMBitDepthKey: 32
++ Record with low latency.
++ Show text to read. Change content in .csv file.
++ Auto increment name output file.
++ Just for fast record so cannot play recorded file, access the file manager on iphone to play your record.
+
 # When use?
 + This project help you record superfast by my custom and support text you will record show on screen with .csv file.
-+ Using to making data to train.
++ Using to making data to train model.
 
 # How to build?
 1. Clone project and open.
