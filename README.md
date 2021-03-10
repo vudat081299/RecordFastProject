@@ -1,9 +1,9 @@
 # RecordFastProject iOS
 
 <h3 align="center">
-  ![app-icon_1](https://user-images.githubusercontent.com/55421234/110569031-80b6da80-8186-11eb-8a8a-5eef2a5e22a2.gif)
-  ![apple-icon_1](https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png)
- </h3>
+  <img src="https://user-images.githubusercontent.com/55421234/110569031-80b6da80-8186-11eb-8a8a-5eef2a5e22a2.gif">
+  <img src="https://cdn.dribbble.com/users/45617/screenshots/12910101/media/c170a9a4d64ad4dff24bac58529d26bb.png">
+</h3>
 
 # When use?
 + This project help you record superfast by my custom and support text you will record show on screen with .csv file.
